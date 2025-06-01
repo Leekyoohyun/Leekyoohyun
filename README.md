@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-﻿[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Leekyoohyun&exclude_repo=datastructure_code_python&langs_count=4&layout=compact&theme=dark)](https://github.com/Leekyoohyun)﻿
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Leekyoohyun&exclude_repo=datastructure_code_python,2023-Seoul-AIoT-Hackathon,DeepLearning-Basic,univ_entrance&langs_count=4&layout=compact&theme=dark)](https://github.com/Leekyoohyun)﻿
 
 ## Major
 
