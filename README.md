@@ -37,11 +37,8 @@ Here are some ideas to get you started:
 
 ## Personal Projects
 
+- #### https://github.com/Leekyoohyun/team3-be
 - #### https://github.com/HopeTail-Teamproject
-   - BE: https://api.hopetail.com/swagger-ui
-   - FE: https://hopetail-teamproject.github.io/HopeTail-FE/<br>
-- #### https://github.com/Leekyoohyun/2023-Seoul-AIoT-Hackathon.git
-- #### https://github.com/Leekyoohyun/spring-project-board-byjsp
 - #### https://github.com/Leekyoohyun/create-web-socket
 
 
